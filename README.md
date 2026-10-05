@@ -11,9 +11,9 @@
 
 ### 🚀 Featured
 
-[![🤖 Agentic Framework](https://img.shields.io/badge/🤖_Agentic_Framework-View_Project-6C63FF?style=for-the-badge)](https://github.com/Keyurnagvekar/Agentic-Framework-Demo-Version)
+[![🤖 Agentic Framework](https://img.shields.io/badge/🤖_Agentic_Framework-View_Project-6C63FF?style=for-the-badge)](https://github.com/Keyurnagvekar/Agentic-Framework-Demo-Version-01)
 
-[![🚗 Fleet Data API](https://img.shields.io/badge/🚗_Fleet_Data_API-View_Project-FF6D00?style=for-the-badge)](https://github.com/Keyurnagvekar/Fleet-Data-API)
+[![🚗 Fleet Data API](https://img.shields.io/badge/🚗_Fleet_Data_API-View_Project-FF6D00?style=for-the-badge)](https://github.com/Keyurnagvekar/Fleet-Data-API-v1)
 
 ### 🔗 Connect
 
