@@ -1,91 +1,87 @@
+
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:172554,100:312e81&text=KEYUR%20NAGVEKAR&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=QA%20AUTOMATION%20%20%7C%20%20AI%20%26%20AGENTIC%20ENGINEERING&descAlignY=60&descSize=16&animation=fadeIn"/>
+# ⚡ KEYUR NAGVEKAR
 
-<br>
+### `QA AUTOMATION ENGINEER` • `AI / AGENTIC ENGINEERING`
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/◉_GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/↗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/✉_Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+`AUTOMATION` • `AI AGENTS` • `RAG` • `MCP` • `LLMs`
 
-<br><br>
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keyurnagvekar)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Engineering+Quality+at+Scale.;Building+AI-Powered+QA+Systems.;Designing+Agentic+Workflows.;RAG+%7C+MCP+%7C+LLMs+%7C+Automation"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
+`● ONLINE` &nbsp; `⚙ ENGINEERING` &nbsp; `◈ AI × QUALITY`
 
 </div>
 
 ---
 
-## ◈ `SYSTEM.IDENTITY`
+## ◈ SYSTEM.IDENTITY
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   KEYUR NAGVEKAR                                         │
-│   ────────────────────────────────────────────────────    │
-│                                                          │
-│   Role       →  QA Automation Engineer                   │
-│   Domain     →  AI • Agentic Systems • Quality           │
-│   Approach   →  Automate → Integrate → Validate          │
-│                                                          │
-│   Building software that makes software engineering      │
-│   faster, smarter and more reliable.                     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  KEYUR NAGVEKAR                                             │
+│                                                             │
+│  ROLE       :: Associate Software Engineer                  │
+│  SPECIALTY  :: QA Automation + AI Systems                   │
+│  STACK      :: Python • Java • Selenium • Appium • PyTest  │
+│  AI         :: Agents • RAG • MCP • LLM Applications      │
+│                                                             │
+│  MISSION    :: Build intelligent systems that reduce        │
+│               repetitive engineering work.                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
+## ⚡ CAPABILITY.MATRIX
+
+| ENGINEERING | AI / AGENTIC | QUALITY |
+|:---|:---|:---|
+| `Python` | `LLMs` | `Selenium` |
+| `Java` | `AI Agents` | `Appium` |
+| `REST APIs` | `RAG` | `PyTest` |
+| `GitHub` | `MCP` | `API Testing` |
+| `Azure DevOps` | `Tool Calling` | `Automation` |
+| `Jira` | `Agent Workflows` | `POM` |
+
 ---
 
-## ⚡ `CAPABILITY.MATRIX`
-
-| | Engineering | AI / Agentic | Quality |
-|:---:|:---|:---|:---|
-| **01** | `Python` `Java` | `LLMs` `Prompting` | `Selenium` |
-| **02** | `REST APIs` `CLI` | `RAG` `MCP` | `Appium` |
-| **03** | `GitHub` `Azure DevOps` | `Agents` `Tool Calling` | `PyTest` |
-| **04** | `Jira` `CI/CD` | `Workflows` | `API Testing` |
-
----
-
-## 🚀 `SELECTED.SYSTEMS`
+## 🚀 SELECTED.SYSTEMS
 
 <table>
 <tr>
 <td width="50%">
 
-### ◉ Agentic Framework
+### 🤖 AGENTIC FRAMEWORK
 
-**Enterprise AI orchestration platform**
+Enterprise agent orchestration platform.
 
-`Agents` · `Tools` · `Workflows` · `RAG`
+`Agents` `Tools` `RAG` `Workflows`
 
-<a href="https://github.com/YOUR_USERNAME/Agentic-Framework-Demo-Version">
-<img src="https://img.shields.io/badge/EXPLORE_SYSTEM-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a"/>
-</a>
+**Flow**
+
+`Intent → Agent → Tools → Knowledge → Workflow → Output`
+
+**[→ EXPLORE](https://github.com/Keyurnagvekar/Agentic-Framework-Demo-Version)**
 
 </td>
 
 <td width="50%">
 
-### ◉ QA Autopilot
+### 🧪 QA AUTOPILOT
 
-**AI-driven quality engineering**
+AI-powered quality engineering system.
 
-`Repository Intelligence` · `Traceability` · `QA`
+`Repository` `Traceability` `Coverage` `QA`
 
-<a href="https://github.com/YOUR_USERNAME/qa-autopilot">
-<img src="https://img.shields.io/badge/EXPLORE_SYSTEM-A78BFA?style=for-the-badge&logo=github&logoColor=0f172a"/>
-</a>
+**Flow**
+
+`Repo → Analysis → Traceability → Coverage → Insights`
+
+**[→ EXPLORE](https://github.com/Keyurnagvekar/qa-autopilot)**
 
 </td>
 </tr>
@@ -93,29 +89,33 @@
 <tr>
 <td width="50%">
 
-### ◉ Fleet Data API
+### 🚗 FLEET DATA API
 
-**Backend API engineering**
+Backend API engineering project.
 
-`REST` · `Data` · `Automation`
+`REST` `Backend` `Testing`
 
-<a href="https://github.com/YOUR_USERNAME/Fleet-Data-API">
-<img src="https://img.shields.io/badge/EXPLORE_API-22C55E?style=for-the-badge&logo=github&logoColor=0f172a"/>
-</a>
+**Flow**
+
+`Client → API → Logic → Data`
+
+**[→ EXPLORE](https://github.com/Keyurnagvekar/Fleet-Data-API)**
 
 </td>
 
 <td width="50%">
 
-### ◉ Automation Lab
+### ⚙️ AUTOMATION LAB
 
-**Practical QA automation systems**
+Practical QA automation systems.
 
-`Selenium` · `Appium` · `PyTest`
+`Selenium` `Appium` `PyTest` `API`
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/VIEW_ALL-06B6D4?style=for-the-badge&logo=github&logoColor=0f172a"/>
-</a>
+**Flow**
+
+`Web + Mobile + API → Automation → Validation`
+
+**[→ VIEW ALL](https://github.com/Keyurnagvekar?tab=repositories)**
 
 </td>
 </tr>
@@ -123,142 +123,150 @@
 
 ---
 
-## 🧠 `ENGINEERING.PHILOSOPHY`
+## 🧠 ENGINEERING.MODE
 
 <details>
-<summary>01 — <b>Quality Engineering</b></summary>
+<summary>🧪 QUALITY ENGINEERING</summary>
 
 <br>
 
 ```text
-Requirements
-     ↓
-Test Strategy
-     ↓
-Automation
-     ↓
-Validation
-     ↓
-Reporting
-     ↓
-Continuous Improvement
+REQUIREMENTS
+      ↓
+TEST STRATEGY
+      ↓
+AUTOMATION
+      ↓
+EXECUTION
+      ↓
+REPORTING
+      ↓
+QUALITY SIGNAL
 ```
 
-Selenium • Appium • PyTest • API Testing • POM • Azure DevOps
+`Selenium` `Appium` `PyTest` `API Testing` `POM` `Regression` `Smoke`
 
 </details>
 
 <details>
-<summary>02 — <b>Agentic Engineering</b></summary>
+<summary>🤖 AGENTIC ENGINEERING</summary>
 
 <br>
 
 ```text
-User Intent
-     ↓
-Agent
-     ↓
-Reasoning
-     ↓
-Tools
-     ↓
-Knowledge / RAG
-     ↓
-Workflow
-     ↓
-Validated Output
+USER INTENT
+      ↓
+     AGENT
+      ↓
+   REASONING
+      ↓
+     TOOLS
+      ↓
+   KNOWLEDGE
+      ↓
+   WORKFLOW
+      ↓
+    OUTPUT
 ```
 
-LLMs • RAG • MCP • Tool Calling • Agent Orchestration
+`LLMs` `RAG` `MCP` `Tool Calling` `Agent Orchestration`
 
 </details>
 
 <details>
-<summary>03 — <b>My Engineering Rule</b></summary>
+<summary>💡 ENGINEERING PRINCIPLE</summary>
 
 <br>
 
-> **Don't automate for the sake of automation.  
-> Build systems that remove real engineering friction.**
+> **Automate repetitive work.**  
+> **Use AI where reasoning matters.**  
+> **Keep humans in control where decisions matter.**
 
 </details>
 
 ---
 
-## 🏆 `RECOGNITION`
+## 🏆 RECOGNITION
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AGENTIC_SPOTLIGHT-FFD700?style=for-the-badge&label=🏆"/>
-<img src="https://img.shields.io/badge/AI_CHAMPION-8B5CF6?style=for-the-badge&label=🤖"/>
-<img src="https://img.shields.io/badge/AAVA_CERTIFIED-06B6D4?style=for-the-badge&label=⚡"/>
+![Agentic Spotlight](https://img.shields.io/badge/🏆_AGENTIC_SPOTLIGHT-AWARD-FFD700?style=for-the-badge)
+
+![AI Champion](https://img.shields.io/badge/🤖_AI_CHAMPION-BADGE-8B5CF6?style=for-the-badge)
+
+![AAVA](https://img.shields.io/badge/⚡_AAVA-CERTIFIED-06B6D4?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📊 `GITHUB.TELEMETRY`
+## 🔍 EXPLORE
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=a78bfa&text_color=cbd5e1"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1"/>
-
-</div>
+<details>
+<summary>👨‍💻 WHAT I DO</summary>
 
 <br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8"/>
-
-</div>
-
----
-
-## 🧩 `OPEN.MODULES`
 
 ```text
-[ AI AGENTS ]       [ RAG SYSTEMS ]       [ MCP ]
-      │                    │                 │
-      └──────────────┬─────┴─────────────────┘
-                     │
-              [ AI ENGINEERING ]
-                     │
-              [ QA AUTOMATION ]
-                     │
-       Selenium • Appium • PyTest • APIs
+QA ENGINEERING
+      +
+AUTOMATION
+      +
+AI ENGINEERING
+      +
+DEVELOPER TOOLS
 ```
 
----
+I build practical engineering solutions where **software quality meets intelligent automation**.
 
-## 💬 `CONNECT`
+</details>
 
-<div align="center">
-
-**Have an interesting engineering problem? Let's build something useful.**
+<details>
+<summary>🧩 WHAT I CAN BUILD</summary>
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+- AI-powered QA systems
+- Automation frameworks
+- Agent + tool architectures
+- RAG / knowledge systems
+- MCP integrations
+- CLI developer tools
+- API automation
+- Repository intelligence
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/START_A_CONVERSATION-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</details>
+
+<details>
+<summary>📂 EXPLORE MY WORK</summary>
+
+<br>
+
+🤖 **[Agentic Framework](https://github.com/Keyurnagvekar/Agentic-Framework-Demo-Version)**
+
+🧪 **[QA Autopilot](https://github.com/Keyurnagvekar/qa-autopilot)**
+
+🚗 **[Fleet Data API](https://github.com/Keyurnagvekar/Fleet-Data-API)**
+
+📁 **[All Repositories](https://github.com/Keyurnagvekar?tab=repositories)**
+
+</details>
+
+---
+
+<div align="center">
+
+## `CONNECT // COLLABORATE // BUILD`
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![Email](https://img.shields.io/badge/START_A_CONVERSATION-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 <br><br>
 
-`AI` · `AUTOMATION` · `QUALITY` · `ENGINEERING`
+`AI` × `AUTOMATION` × `QUALITY` × `ENGINEERING`
+
+### ⭐ Thanks for visiting
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:312e81,50:172554,100:0f172a"/>
-
-</div>
+```
